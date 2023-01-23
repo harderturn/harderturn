@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harderturn
-- 👀 I’m interested in JS Libraries and Python :3 
-- 🌱 I’m currently learning microservices*
+- 👀 I’m interested in JS Libraries and Python 
 - 💞️ I’m looking to collaborate on JS things :)
 - 📫 How to reach me, just mail mburakkacar@gmail.com
 
